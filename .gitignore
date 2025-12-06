@@ -1,0 +1,16 @@
+# Arduino & ESP32
+*.elf
+*.bin
+*.hex
+/build/
+/sdkconfig
+
+# KiCad/Eagle
+*.bck
+*.lck
+*.log
+fp-info-cache
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
