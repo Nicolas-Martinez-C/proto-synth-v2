@@ -31,7 +31,6 @@ El Proto-Synth v2 agrupa componentes esenciales para la síntesis de sonido en u
 * `/hardware`:
     * **Gerbers:** Archivos listos para fabricación de PCB.
     * **Schematics:** Diagramas electrónicos.
-    * **BOM:** Lista de materiales.
 
 ## ⚠️ Erratas y Notas Técnicas (Hardware v2.0)
 Si estás usando la placa v2.0 o planeas fabricarla tal cual está en los Gerbers, ten en cuenta estas "features" no intencionales:
